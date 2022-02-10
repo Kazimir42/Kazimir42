@@ -6,4 +6,4 @@ I'm Rémi Champlon
 - 🌱 I’m currently learning [Laravel](https://laravel.com/).
 - ⚡ Fun fact: I've spent a year living in a van in Corsica.
 
-[Twitter](https://twitter.com/RemiChamplon) | [Website](https://www.remi-champlon.fr/)
+[Twitter](https://twitter.com/Kazimir42_) | [Website](https://www.remi-champlon.fr/)
